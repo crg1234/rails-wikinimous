@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: Roboto-slab, sans-serif;
+  font-size: 30px;
+  color: #337AB7;
+}
+
+p {
+  font-size: 16.8px;
+}
